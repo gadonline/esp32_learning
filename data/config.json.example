@@ -1,0 +1,10 @@
+{
+   "web_server" : {
+      "www_username" : "user",
+      "www_password" : "password"
+   },
+   "wifi_client" : {
+      "ssid" : "network",
+      "password" : "12345678"
+   }
+}
